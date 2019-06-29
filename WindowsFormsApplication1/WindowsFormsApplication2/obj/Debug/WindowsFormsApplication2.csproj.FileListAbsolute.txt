@@ -1,0 +1,15 @@
+C:\Users\rizwan\Source\Repos\1804F\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\rizwan\Source\Repos\1804F\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\rizwan\Source\Repos\1804F\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\rizwan\Source\Repos\1804F\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\rizwan\Source\Repos\1804F\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\rizwan\Source\Repos\1804F\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\rizwan\Source\Repos\1804F\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\rizwan\Source\Repos\1804F\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\rizwan\Source\Repos\1804F\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmProduct.resources
+C:\Users\rizwan\Source\Repos\1804F\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCustomer.resources
+C:\Users\rizwan\Source\Repos\1804F\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\rizwan\Source\Repos\1804F\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmLogin.resources
+C:\Users\rizwan\Source\Repos\1803E\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\rizwan\Source\Repos\1803E\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\rizwan\Source\Repos\1803E\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
