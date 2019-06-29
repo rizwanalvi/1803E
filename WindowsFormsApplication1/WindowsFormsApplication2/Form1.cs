@@ -14,6 +14,7 @@ namespace WindowsFormsApplication2
     {
        public static bool _isProduct = false;
         public static bool _isCustomer = false;
+        public static bool _isCategory = false;
         public Form1()
         {
             InitializeComponent();
@@ -58,8 +59,24 @@ namespace WindowsFormsApplication2
                         }
                     }
                     break;
-                   
-                    default:
+                case "Category":
+                    if (!_isCategory)
+                    {
+                        frmCategory fmp = new frmCategory();
+                        fmp.Show();
+                        fmp.MdiParent = this;
+                        _isCategory = true;
+                    }
+                    else
+                    {
+                        foreach (Form item in Application.OpenForms)
+                        {
+                            if (item.Text == "Category")
+                                item.Focus();
+                        }
+                    }
+                    break;
+                default:
                         break;
                 }
             

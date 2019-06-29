@@ -31,6 +31,8 @@
         {
             this.panel1 = new System.Windows.Forms.Panel();
             this.button3 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
@@ -39,6 +41,8 @@
             // panel1
             // 
             this.panel1.Controls.Add(this.button3);
+            this.panel1.Controls.Add(this.button5);
+            this.panel1.Controls.Add(this.button4);
             this.panel1.Controls.Add(this.button2);
             this.panel1.Controls.Add(this.button1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
@@ -51,13 +55,33 @@
             // button3
             // 
             this.button3.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button3.Location = new System.Drawing.Point(0, 60);
+            this.button3.Location = new System.Drawing.Point(0, 120);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(153, 30);
-            this.button3.TabIndex = 2;
+            this.button3.TabIndex = 5;
             this.button3.Text = "Check";
             this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // button5
+            // 
+            this.button5.Dock = System.Windows.Forms.DockStyle.Top;
+            this.button5.Location = new System.Drawing.Point(0, 90);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(153, 30);
+            this.button5.TabIndex = 4;
+            this.button5.Text = "Order";
+            this.button5.UseVisualStyleBackColor = true;
+            // 
+            // button4
+            // 
+            this.button4.Dock = System.Windows.Forms.DockStyle.Top;
+            this.button4.Location = new System.Drawing.Point(0, 60);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(153, 30);
+            this.button4.TabIndex = 3;
+            this.button4.Text = "Category";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -95,14 +119,15 @@
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
             MainPanel = panel1;
-
         }
 
         #endregion
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button button4;
+        public System.Windows.Forms.Panel panel1;
     }
 }
 
