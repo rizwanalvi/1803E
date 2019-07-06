@@ -23,3 +23,5 @@ C:\Users\rizwan\Source\Repos\1803E\WindowsFormsApplication1\WindowsFormsApplicat
 C:\Users\rizwan\Source\Repos\1803E\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
 C:\Users\rizwan\Source\Repos\1803E\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
 C:\Users\rizwan\Source\Repos\1803E\WindowsFormsApplication1\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmCategory.resources
+C:\Users\rizwan\Source\Repos\1803E\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\Jeskoent.dll
+C:\Users\rizwan\Source\Repos\1803E\WindowsFormsApplication1\WindowsFormsApplication2\bin\Debug\Jeskoent.pdb

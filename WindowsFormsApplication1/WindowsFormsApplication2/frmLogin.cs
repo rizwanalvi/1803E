@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using Jeskoent;
 namespace WindowsFormsApplication2
 {
     public partial class frmLogin : Form
@@ -19,14 +19,18 @@ namespace WindowsFormsApplication2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text.Equals("Admin") && textBox2.Text.Equals("123"))
-            {
+            DALLogin lg = new DALLogin();
+            if (lg.LoginUser(new Login { UserName = textBox1.Text, UserPass = textBox2.Text })) {
                 Form1.MainPanel.Enabled = true;
                 this.Hide();
             }
-            else {
+            else
+            {
                 MessageBox.Show("Invalid User/Pass");
             }
+
+                    
+           
 
         }
     }
